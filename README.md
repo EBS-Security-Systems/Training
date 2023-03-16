@@ -1,6 +1,6 @@
 ## Treinamento para participar de projetos escolares na área de programação
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=thiagosousa81%40gmail.com&authuser=0" target="_blank"><img src="https://img.shields.io/badge/Inscrições-nocolor?style=flat" style="height: 25px"/></a>
+<a href="https://forms.gle/fYqa5JedAjEbSqWU9" target="_blank"><img src="https://img.shields.io/badge/Inscrições-nocolor?style=flat" style="height: 25px"/></a>
 
 ### Aqui estudaremos...
 
