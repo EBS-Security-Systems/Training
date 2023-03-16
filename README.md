@@ -42,7 +42,7 @@
 ### 5. Das atividades
 
   Com o objetivo de melhorar a inclusão, as atividades de código poderão ser feitas por celular (com o app [PyDroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=pt_BR&gl=US&pli=1)) ou computador (pelo [IDLE Python](https://www.python.org/) ou [onlinegdb.com](https://www.onlinegdb.com/online_python_compiler)).
-  O importante é que todas as atividades propostas sejam entregues pelo [Classroom](https://classroom.google.com/).
+  O importante é que todas as atividades propostas sejam entregues pelo [Classroom](https://classroom.google.com/c/NTQzNjQ1NjgyNTMw?cjc=yxah6r7).
 
 ## Objetivo
 
