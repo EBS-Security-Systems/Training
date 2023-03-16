@@ -1,6 +1,6 @@
 ## Treinamento para participar de projetos escolares na área de programação
 
-<a href="https://forms.gle/fYqa5JedAjEbSqWU9" target="_blank"><img src="https://img.shields.io/badge/Inscrições-nocolor?style=flat" style="height: 25px"/></a>
+<a href="https://forms.gle/fYqa5JedAjEbSqWU9" target="_blank"><img src="https://img.shields.io/badge/Inscrições-nocolor?style=flat" style="height: 30"/></a>
 
 ### Aqui estudaremos...
 
@@ -22,7 +22,7 @@
 
 ### 1. Das inscrições
 
-  As inscrições ocorrem através do formulário [Em construção](https://ebs-systems.epizy.com/)  
+  As inscrições ocorrem através do [formulário ↗️ ](https://ebs-systems.epizy.com/)  
 
 ### 2. Da participação
   
