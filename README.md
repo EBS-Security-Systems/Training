@@ -26,11 +26,11 @@
 
 ### 2. Da participação
   
-   Os alunos terão acesso às atividades práticas pelo [Google Classroom](https://classroom.google.com/)
+   Os alunos terão acesso às atividades práticas pelo [Google Classroom](https://classroom.google.com/c/NTQzNjQ1NjgyNTMw?cjc=yxah6r7)
    
 ### 3. Das aulas
 
-  O material completo das aulas será disponibilizado no [Git-Hub](/), porém será indexado pelo [Classroom](https://classroom.google.com/). 
+  O material completo das aulas será disponibilizado no [Git-Hub](/), porém será indexado pelo [Classroom](https://classroom.google.com/c/NTQzNjQ1NjgyNTMw?cjc=yxah6r7). 
   
   > A maior parte das aulas será assíncrona
   > Todas as aulas síncronas terão a presença de no mínimo 01 (um) professor do CETEP da área de informática
