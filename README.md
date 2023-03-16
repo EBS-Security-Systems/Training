@@ -1,6 +1,6 @@
 ## Treinamento para participar de projetos escolares na área de programação
 
-<a href="https://forms.gle/fYqa5JedAjEbSqWU9" target="_blank"><img src="https://img.shields.io/badge/Inscrições-nocolor?style=flat" style="height: 30px"/></a>
+<a href="https://forms.gle/fYqa5JedAjEbSqWU9" target="_blank"><img src="https://img.shields.io/badge/Inscrições-blue?style=flat" style="height: 30px"/></a>
 
 ### Aqui estudaremos...
 
