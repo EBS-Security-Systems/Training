@@ -15,7 +15,7 @@
 <!--
 | | | | | 
 | - | - | - | - |-->
-<a href="https://github.com/AGRO-CETEP" target="_blank"><img src="https://img.shields.io/badge/AGRO%20CETEP-nocolor?style=flat" style="height: 30px"/></a>  <a href="https://github.com/EBS-Security-Systems" target="_blank"><img src="https://img.shields.io/badge/EBS Security Systems-black?style=flat" style="height: 30px"/></a>  <a href="https://github.com/Fenix-Line" target="_blank"><img src="https://img.shields.io/badge/Fenix Line Innovation-purple?style=flat" style="height: 30px"/></a>  <a href="https://github.com/NiltonSilva10/PIBIC-EM" target="_blank"><img src="https://img.shields.io/badge/PIBIC EM UFRB-white?style=flat" style="height: 30px"/></a> 
+<a href="https://github.com/AGRO-CETEP" target="_blank"><img src="https://img.shields.io/badge/AGRO%20CETEP-gold?style=flat" style="height: 30px"/></a>  <a href="https://github.com/EBS-Security-Systems" target="_blank"><img src="https://img.shields.io/badge/EBS Security Systems-nocolor?style=flat" style="height: 30px"/></a>  <a href="https://github.com/Fenix-Line" target="_blank"><img src="https://img.shields.io/badge/Fenix Line Innovation-purple?style=flat" style="height: 30px"/></a>  <a href="https://github.com/NiltonSilva10/PIBIC-EM" target="_blank"><img src="https://img.shields.io/badge/PIBIC EM UFRB-white?style=flat" style="height: 30px"/></a> 
 
 #### É muito importente trabalhar em um estágio para conclusão do curso técnico em informática
 
