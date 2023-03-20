@@ -10,7 +10,7 @@
 - **Git-Hub**
 - **Programação Orientada a Objeto - (bônus)** 
 
-### Em quais projetos posso trabalhar realizando esse treinamento?
+## Em quais projetos posso trabalhar realizando esse treinamento?
 
 <!--
 | | | | | 
