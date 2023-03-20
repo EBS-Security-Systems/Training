@@ -8,7 +8,7 @@
 - **Lógica de Programação**
 - **Linguagem Python**
 - **Git-Hub**
-- **Programação Orientada a Objeto**
+- **Programação Orientada a Objeto - (bônus)** 
 
 ### Em quais projetos posso trabalhar realizando esse treinamento?
 
