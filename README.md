@@ -9,10 +9,13 @@
 - **Linguagem Python**
 - **Git-Hub**
 - **Programação Orientada a Objeto - (bônus)** 
+<br>
 
-### Aula síncrona dia 30/03 link
+<h1 align=center><a href="/#readme"><b>Acesse a aula síncrona do dia 03/04 clicando aqui ↗️</b></a></h1>
 
-## Em quais projetos posso trabalhar realizando esse treinamento?
+<br>
+
+## Em quais projetos é possível trabalhar realizando esse treinamento?
 
 <!--
 | | | | | 
