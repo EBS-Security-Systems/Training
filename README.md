@@ -10,6 +10,8 @@
 - **Git-Hub**
 - **Programação Orientada a Objeto - (bônus)** 
 
+### Aula síncrona dia 30/03 link
+
 ## Em quais projetos posso trabalhar realizando esse treinamento?
 
 <!--
