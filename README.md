@@ -3,17 +3,24 @@
 <a href="https://forms.gle/fYqa5JedAjEbSqWU9" target="_blank"><img src="https://img.shields.io/badge/Inscrições-blue?style=flat" style="height: 30px"/></a>
 <a href="https://classroom.google.com/c/NTQzNjQ1NjgyNTMw?cjc=yxah6r7" target="_blank"><img src="https://img.shields.io/badge/Classroom-white?style=flat" style="height: 30px"/></a>
 
+
+<br>
+
+<br>
+
+<h1 align=center><a href="https://meet.google.com/vmr-zvpw-jkf"><b>Acesse a aula síncrona do dia 29/03 (19h) clicando aqui ↗️</b></a></h1>
+
+<br>
+
+<br>
+
 ### Aqui estudaremos...
 
 - **Lógica de Programação**
 - **Linguagem Python**
 - **Git-Hub**
 - **Programação Orientada a Objeto - (bônus)** 
-<br>
 
-<h1 align=center><a href="/#readme"><b>Acesse a aula síncrona do dia 29/03 clicando aqui ↗️</b></a></h1>
-
-<br>
 
 ## Em quais projetos é possível trabalhar realizando esse treinamento?
 
