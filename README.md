@@ -11,7 +11,7 @@
 - **Programação Orientada a Objeto - (bônus)** 
 <br>
 
-<h1 align=center><a href="/#readme"><b>Acesse a aula síncrona do dia 03/04 clicando aqui ↗️</b></a></h1>
+<h1 align=center><a href="/#readme"><b>Acesse a aula síncrona do dia 29/03 clicando aqui ↗️</b></a></h1>
 
 <br>
 
