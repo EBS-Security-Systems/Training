@@ -2,6 +2,7 @@
 
 <a href="https://forms.gle/fYqa5JedAjEbSqWU9" target="_blank"><img src="https://img.shields.io/badge/Inscrições-blue?style=flat" style="height: 30px"/></a>
 <a href="https://classroom.google.com/c/NTQzNjQ1NjgyNTMw?cjc=yxah6r7" target="_blank"><img src="https://img.shields.io/badge/Classroom-white?style=flat" style="height: 30px"/></a>
+<a href="https://drive.google.com/file/d/1jkI93DBnnOsaubU5Ganqzi5x2l0TNXXN/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Slides-red?style=flat" style="height: 30px"/></a>
 
 
 <br>
