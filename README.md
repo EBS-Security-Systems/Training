@@ -9,7 +9,7 @@
 
 <br>
 
-<h1 align=center><a href="https://meet.google.com/vmr-zvpw-jkf"><b>Acesse a aula do dia 29/03 (19h) clicando aqui ↗️</b></a></h1>
+<h1 align=center><a href="https://meet.google.com/nda-napk-pxy"><b>Acesse a aula do dia 29/03 (19h) clicando aqui ↗️</b></a></h1>
 
 <br>
 
