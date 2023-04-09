@@ -6,7 +6,7 @@
 <a href="https://discord.gg/waq38sCbcs" target="_blank"><img src="https://img.shields.io/badge/Servidor%20no%20Discord-royalblue?style=flat" style="height: 30px"/></a>
 
 
-
+<!--
 <br>
 
 <br>
@@ -14,7 +14,7 @@
 <h1 align=center><a href="https://meet.google.com/nda-napk-pxy"><b>Acesse a aula do dia 29/03 (19h) clicando aqui ↗️</b></a></h1>
 
 <br>
-
+-->
 <br>
 
 ### Aqui estudaremos...
